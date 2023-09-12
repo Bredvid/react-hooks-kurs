@@ -10,23 +10,19 @@ Velkommen til kurs om React hooks med Bredvid!
 
 ## Laste ned prosjektet
 
-I terminalen velg den mappen du ønsker å laste ned prosjektet i
+1. I terminalen velg den mappen du ønsker å laste ned prosjektet i
 
-`git clone link-til-kurset`
+2. Deretter kjør kommandoen: `git clone https://github.com/Bredvid/react-hooks-kurs.git`
 
-`cd react-hooks-kurs`
+3. Etterfulgt av: `cd react-hooks-kurs`
 
 ## Kjøre prosjektet
 
-I terminalen kjør:
+1. I terminalen kjør: `npm install`
 
-`npm install`
+2. Deretter: `npm run dev`
 
-deretter:
-
-`npm run dev`
-
-Åpne linken som står etter "--> Local: "
+3. Åpne linken som står etter "--> Local: "
 
 Siden bør se cirka slik ut:
 
