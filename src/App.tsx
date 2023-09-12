@@ -5,7 +5,10 @@ import Oppgave_en_fasit from "./Oppgaver/Oppgave_en/Oppgave_en_fasit";
 import Oppgave_to_fasit from "./Oppgaver/Oppgave_to/Oppgave_to_fasit";
 //import Oppgave_tre from "./Oppgaver/Oppgave_tre/Oppgave_tre";
 import Oppgave_tre_fasit from "./Oppgaver/Oppgave_tre/Oppgave_tre_fasit";
-import Oppgave_fire from "./Oppgaver/Oppgave_fire/Oppgave_fire";
+//import Oppgave_fire from "./Oppgaver/Oppgave_fire/Oppgave_fire";
+
+import Oppgave_fire_fasit from "./Oppgaver/Oppgave_fire_fasit/Oppgave_fire";
+
 import Oppgave_fem from "./Oppgaver/Oppgave_fem/Oppgave_fem";
 
 function App() {
@@ -17,7 +20,7 @@ function App() {
       <hr />
       <Oppgave_tre_fasit />
       <hr />
-      <Oppgave_fire />
+      <Oppgave_fire_fasit />
       <hr />
       <Oppgave_fem />
     </>
