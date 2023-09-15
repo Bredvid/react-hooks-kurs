@@ -38,6 +38,7 @@ Noen sider som kan være til hjelp:
 
 - [Den nye React dokumentasjonen](https://react.dev/reference/react)
 - [Den gamle React dokumentasjonen](https://legacy.reactjs.org/docs/hooks-intro.html)
+- [Forklaring av re-render](https://punits.dev/jargon-free-intros/why-react-rerenders-and-when-to-worry-about-it/)
 
 ## Fasit
 
